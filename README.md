@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+
+https://github.com/akarshrnz/gyroscope_animation/assets/77736922/251f03a9-ad08-457d-8e12-dcb2441c0b03
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
